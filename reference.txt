@@ -1,0 +1,2 @@
+To get a video : 
+    vid.get
